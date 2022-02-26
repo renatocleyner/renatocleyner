@@ -14,7 +14,8 @@
   <a href="https://github.com/renatocleyner">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatocleyner&show_icons=true&theme=codeSTACKr"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatocleyner&layout=compact&langs_count=16&theme=codeSTACKr"/>
-</div> 
+</div>
+  <br>
   <a href="https://github.com/renatocleyner">
     <div>
        <img align="center"  alt="tag-python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -23,6 +24,7 @@
        <img align="center"  alt="tag-css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </div>
   </a>
+  <br>
   <a href="https://github.com/renatocleyner">
   <div>
     <img align="center"  alt="tag-python" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
