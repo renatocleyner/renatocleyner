@@ -22,7 +22,6 @@
        <img align="center"  alt="tag-c#" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
        <img align="center"  alt="tag-html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
        <img align="center"  alt="tag-css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center"  alt="tag-js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg">
     </div>
   </a>
   <br>
