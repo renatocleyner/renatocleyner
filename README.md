@@ -15,7 +15,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatocleyner&theme=codeSTACKr&show_icons=true"/>
     
    <a href="https://github.com/renatocleyner/github-readme-stats"> 
-    <img height="180em" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatocleyner&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatocleyner&layout=compact"/>
 </div>
   <br>
   <a href="https://github.com/renatocleyner">
