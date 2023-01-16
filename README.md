@@ -23,6 +23,8 @@
        <img align="center"  alt="tag-c#" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
        <img align="center"  alt="tag-html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
        <img align="center"  alt="tag-css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+       <img align="center"  alt="tag-css" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+      
     </div>
   </a>
   <br>
