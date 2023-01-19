@@ -14,10 +14,11 @@
   <a href="https://github.com/renatocleyner">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatocleyner&theme=codeSTACKr&show_icons=true"/>
     
+<br>
    <a href="https://github.com/renatocleyner/github-readme-stats"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatocleyner&layout=compact&theme=codeSTACKr"/>
 </div>
-  <br>
+<br>  
   <a href="https://github.com/renatocleyner">
     <div>
        <img align="center"  alt="tag-python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,7 +26,6 @@
        <img align="center"  alt="tag-html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
        <img align="center"  alt="tag-css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
        <img align="center"  alt="tag-css" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-      
     </div>
-  </a>
-  <br>
+   </a>
+
