@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando no projeto próprio de Cadastro de funcionarios.
-- 🌱 Estou aprendendo: Python, C#, Html, CSS e Javascript
+- 🌱 Estou aprendendo: OutSystems | OutSystems Started | Python, C#, Html, CSS e Javascript
 - 👯 Estou procurando colaborar em projetos para desenvolver e habilidades.
 - 🤔 Procuro ajuda com...
 - 💬 Pergunte sobre...
