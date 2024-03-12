@@ -2,13 +2,10 @@
 
 
 - 🔭 Estou trabalhando no projeto próprio de Cadastro de funcionarios.
-- 🌱 Estou aprendendo: OutSystems | OutSystems Started | Python, C#, Html, CSS e Javascript
-- 👯 Estou procurando colaborar em projetos para desenvolver e habilidades.
-- 🤔 Procuro ajuda com...
-- 💬 Pergunte sobre...
+- 🌱 Estou aprendendo: Python, C#, Html, CSS e Javascript
+- 👯 Estou procurando colaborar em projetos para desenvolver e aumentar minhas habilidades.
 - 📫 Como chegar até mim: renatocleyner@gmail.com
-- 😄 Pronomes: ...
-- ⚡ Curiosidades: ...
+
 
 <div>
   <a href="https://github.com/renatocleyner">
